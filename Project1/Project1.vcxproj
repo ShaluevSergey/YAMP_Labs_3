@@ -138,6 +138,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C:\Users\User\Desktop\Temp\Project1\funcA.cpp" />
+    <ClCompile Include="C:\Users\User\Desktop\Temp\Project1\funcB.cpp" />
+    <ClCompile Include="C:\Users\User\Desktop\Temp\Project1\selectionSort.cpp" />
     <ClCompile Include="End.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
